@@ -1,0 +1,9 @@
+uvicorn~=0.34.0
+fastapi~=0.115.12
+langchain-community~=0.3.23
+langchain-core~=0.3.59
+langchain-text-splitters~=0.3.8
+transformers~=4.51.3
+pydantic~=2.11.2
+streamlit~=1.45.0
+requests~=2.32.3
